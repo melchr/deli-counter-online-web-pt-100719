@@ -5,6 +5,7 @@ def line(katz_deli)
   else
     puts katz_deli
 end
+end
 
 def take_a_number(katz_deli, name)
   puts katz_deli << name.length
